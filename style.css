@@ -1,0 +1,34 @@
+body {
+    font-family: Arial;
+    background-color: #181818;
+  }
+a#navbtn.nav-link {
+  color: white;
+  font-family: monospace;
+}
+a#navbtn.nav-link:hover {
+  font-family: monospace;
+  border-bottom: 1px solid springgreen;
+}
+div.container.cg {
+  text-align: center;
+  padding: 70px;
+  color: white;
+}
+p {
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: silver;
+}
+h1 {
+ text-align: center;
+ color: white;
+ border-bottom: 1px solid springgreen;
+}
+img {
+  width: 30%;
+  height: 30%;
+  float: left;
+}
+h5 {
+  color: #181818;
+}
